@@ -1,0 +1,6 @@
+C:\Users\joelz\source\repos\Pessoa\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Users\joelz\source\repos\Pessoa\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Users\joelz\source\repos\Pessoa\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Users\joelz\source\repos\Pessoa\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\joelz\source\repos\Pessoa\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Users\joelz\source\repos\Pessoa\TipoDelegate\obj\Debug\TipoDelegate.pdb
