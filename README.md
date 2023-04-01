@@ -1,4 +1,4 @@
-<h3> Aqui esté um jeito simples de utilizar o Delegate, recurso que é pertinente a POO.
+<h3> Aqui esté um jeito simples de utilizar o Delegate, recurso que é pertinente e importante da POO.
 
 <br>
 <h3> Aqui está o código, que por sinal é simples.
